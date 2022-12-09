@@ -1,2 +1,2 @@
 # Personel Takip Otomasyonu
-C# Code first yapısı ve MSSQL kullanılarak yapılmıştır .
+C# Windows Form ve MSSQL kullanılarak yapılmıştır .
